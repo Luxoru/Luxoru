@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Luxoru 👋</h1>
 <h3 align="center">A passionate software engineer living in England, I primarily work with the Java programming language and have 3 years of experience.</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rainnny7&label=Profile%20views&color=0e75b6&style=flat" alt="luxoru" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=luxoru&label=Profile%20views&color=0e75b6&style=flat" alt="luxoru" /> </p>
 
 - 🔭 I’m currently working on TerraShield
 
