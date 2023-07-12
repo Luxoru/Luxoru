@@ -28,6 +28,6 @@
 
 <div>
   &nbsp;
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=luxoru&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="luxoru" /></p>
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=luxoru&show_icons=true&theme=dark&hide_border=true&locale=en" alt="luxoru" /></p>
+  <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luroxru&theme=react&line_height=40&hide=css" alt = "Luxoru"/></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luxoru&theme=react&line_height=40&hide=css" alt = "Luxoru"/></p>
 </div>
