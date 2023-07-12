@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on TerraShield
 
+
+
 - 🌱 I’m currently learning **React**
 
 <!-- - 👨‍💻 All of my projects are available at [https://rainnny.club](https://rainnny.club) -->
@@ -31,5 +33,5 @@
 <div>
   &nbsp;
   <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luxoru&theme=dark&line_height=40&hide=css" alt = "Luxoru"/></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luxoru&theme=dark&line_height=40&hide=css" alt = "Luxoru"/></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Luxoru&theme=dark&line_height=40&hide=css" alt = "Luxoru"/></p>
 </div>
