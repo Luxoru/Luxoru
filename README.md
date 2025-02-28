@@ -2,11 +2,11 @@
 <h3 align="center">A passionate software engineer, I primarily work with the Java programming language and have 5 years of experience.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=luxoru&label=Profile%20views&color=0e75b6&style=flat" alt="luxoru" /> </p>
 
-- 🔭 I’m currently working on multiple projects 😎
+- 🔭 I’m currently working on the Scripted Network 😎
 
 
 
-- 🌱 I’m currently learning **Internal Minecraft Stuff**
+- 🌱 I’m currently learning **C++ networking**
 
 
 - 📫 How to reach me **luxoru.dev@gmail.com**
