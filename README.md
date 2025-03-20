@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Luxoru 👋</h1>
-<h3 align="center">A passionate software engineer, I primarily work with the Java programming language and have 5 years of experience.</h3>
+<h3 align="center">A passionate software engineer, I primarily work with the Java programming language and have 6 years of experience.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=luxoru&label=Profile%20views&color=0e75b6&style=flat" alt="luxoru" /> </p>
 
 - 🔭 I’m currently working on the Scripted Network 😎
