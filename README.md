@@ -17,5 +17,5 @@
   &nbsp;
   <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luxoru&theme=dark&hide_border=true&hide=css" alt = "Luxoru"/></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Luxoru&theme=dark&hide_border=true&hide=css" alt = "Luxoru"/></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibnaleem&theme=dark&hide_border=false" alt = "Luxoru"/></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Luxoru&theme=dark&hide_border=false" alt = "Luxoru"/></p>
 </div>
