@@ -2,9 +2,9 @@
 <h3 align="center">I primarily work with the Java programming language and have 6 years of experience.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=luxoru&label=Profile%20views&color=0e75b6&style=flat" alt="luxoru" /> </p>
 
-- 🏢 Currently working as a junior developer at Adobe Systems
+- 🏢 Intern at at Adobe Systems
 
-- 🔭 Working on other things such as the Scripted Network
+- 🔭 Developer at Scripted Network and Wild Network
 
 - 📫 How to reach me **luxoru.dev@gmail.com**
 
